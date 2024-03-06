@@ -1,5 +1,5 @@
 body{
-    background-image: url('früh.jpg');
+       background-image: ('https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS');
     color: rgba(175, 10, 10, 0.933);
     font-family: "Times New Roman", Times, serif;
  
@@ -21,8 +21,9 @@ h2 {
 
 
 nav ul{
+
     list-style: none;
-    background-color: rgb(231, 236, 236);
+    background-color: rgb(116, 168, 224);
 }
 
 nav ul li {
@@ -36,4 +37,7 @@ nav ul li a{
     text-decoration: none;
     font-weight: bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav a:hover {
+    color: #ffd700; /* Textfarbe ändern beim Überfahren */
 }
