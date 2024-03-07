@@ -1,5 +1,5 @@
 body{
-       background-image: ('https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS');
+       background-image: ('Premium.JPG');
     color: rgba(175, 10, 10, 0.933);
     font-family: "Times New Roman", Times, serif;
  
@@ -23,12 +23,12 @@ h2 {
 nav ul{
 
     list-style: none;
-    background-color: rgb(116, 168, 224);
+    background-color:rgb(188, 199, 36);
 }
 
 nav ul li {
     margin-left: 10ex;
-    background-color: rgb(127, 163, 163);
+    background-color: rgb(188, 199, 36);
 
 }
 nav ul li a{
@@ -39,5 +39,8 @@ nav ul li a{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 nav a:hover {
-    color: #ffd700; /* Textfarbe ändern beim Überfahren */
+    color: #006eff; /* Textfarbe ändern beim Überfahren */
+}
+nav :any-link{
+     ::-webkit-slider-thumb
 }
