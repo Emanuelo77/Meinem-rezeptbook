@@ -11,12 +11,7 @@ h1 {
     text-transform:  normal;
     font-size: 300;
 }
-h2 {
-    color: #0b0b0a
-    font-weight: black;
-    text-transform: uppercase;
-    font-size: bold;
-}
+
 
 
 
@@ -42,5 +37,5 @@ nav a:hover {
     color: #006eff; /* Textfarbe ändern beim Überfahren */
 }
 nav :any-link{
-     ::-webkit-slider-thumb
+   
 }
